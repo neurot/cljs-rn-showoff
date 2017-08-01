@@ -1,5 +1,7 @@
 # ClojureScript React Native Showoff
 
+This is a project created with re-natal. Following instructions are mostly copied from their repositoriy.
+
 ## Development with Figwheel
 
 Initially the `index.*.js` files are generated with the production profile, ready for deployment.
